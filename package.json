@@ -1,0 +1,51 @@
+{
+  "name": "hallucination",
+  "displayName": "Hallucination",
+  "homepage": "https://github.com/matheusdearaujo/hallucination-theme",
+  "publisher": "matheusdearaujo",
+  "version": "1.0.0",
+  "description": "A dark theme for Visual Studio Code.",
+  "license": "MIT",
+  "maintainers": [
+    "Matheus Souza <matheusouzadearaujo@gmail.com>",
+    "Philipe Cerqueira <philipe.cerq@gmail.com>"
+  ],
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwietter/hallucination-theme.git"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hallucination Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hallucination_dark.json"
+      },
+      {
+        "label": "Hallucination Full Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hallucination_full_dark.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package -o hallucination.vsix",
+    "vsce-publish": "vsce publish"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Hallucination"
+  ],
+  "galleryBanner": {
+    "color": "#1E1D22",
+    "theme": "dark"
+  }
+}
