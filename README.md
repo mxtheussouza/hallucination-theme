@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/matheusdearaujo/hallucination-theme" rel="noopener">
-    <img width=200px height=200px src="icon.png">
+    <img width=200px height=200px src=".github/assets/icon.png">
  </a>
 </p>
 
