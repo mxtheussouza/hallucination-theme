@@ -47,5 +47,8 @@
   "galleryBanner": {
     "color": "#1E1D22",
     "theme": "dark"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
