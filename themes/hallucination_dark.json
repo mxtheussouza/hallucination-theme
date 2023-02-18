@@ -1838,6 +1838,30 @@
       }
     },
     {
+      "name": "Destructuring / aliasing variable name (RHS)",
+      "scope": [
+        "meta.import variable.other.readwrite.alias",
+        "meta.export variable.other.readwrite.alias",
+        "meta.variable.assignment.destructured.object.coffee variable variable"
+      ],
+      "settings": {
+        "fontStyle": "normal",
+        "foreground": "#F8F8F2"
+      }
+    },
+    {
+      "name": "Destructuring / aliasing function name (RHS)",
+      "scope": [
+        "meta.import function.other.readwrite.alias",
+        "meta.export function.other.readwrite.alias",
+        "meta.function.assignment.destructured.object.coffee function function"
+      ],
+      "settings": {
+        "fontStyle": "normal",
+        "foreground": "#50FA7B"
+      }
+    },
+    {
       "name": "Capture groups",
       "scope": ["punctuation.definition.group.regexp"],
       "settings": {
@@ -2146,8 +2170,8 @@
     "editor.lineHighlightBorder": "#0f0f0f",
     "editorLineNumber.activeForeground": "#b2b2b2",
     "editorLink.activeForeground": "#8BE9FD",
-    "editorIndentGuide.background": "#0f0f0f",
-    "editorIndentGuide.activeBackground": "#0f0f0f",
+    "editorIndentGuide.background": "#242424",
+    "editorIndentGuide.activeBackground": "#5f5076",
     "editorRuler.foreground": "#0f0f0f",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
