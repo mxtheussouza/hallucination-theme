@@ -1339,7 +1339,7 @@
       "name": "js Flow",
       "scope": ["support.type.primitive"],
       "settings": {
-        "foreground": "#d694f5"
+        "foreground": "#8BE9FD"
       }
     },
     {
