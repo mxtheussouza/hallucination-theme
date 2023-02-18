@@ -3,7 +3,7 @@
   "displayName": "Hallucination",
   "homepage": "https://github.com/matheusdearaujo/hallucination-theme",
   "publisher": "matheusdearaujo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A dark theme for Visual Studio Code.",
   "license": "MIT",
   "maintainers": [
@@ -27,6 +27,11 @@
         "label": "Hallucination Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/hallucination_dark.json"
+      },
+      {
+        "label": "Hallucination Dark Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hallucination_dark_contrast.json"
       },
       {
         "label": "Hallucination Full Dark",
