@@ -1850,18 +1850,6 @@
       }
     },
     {
-      "name": "Destructuring / aliasing function name (RHS)",
-      "scope": [
-        "meta.import function.other.readwrite.alias",
-        "meta.export function.other.readwrite.alias",
-        "meta.function.assignment.destructured.object.coffee function function"
-      ],
-      "settings": {
-        "fontStyle": "normal",
-        "foreground": "#50FA7B"
-      }
-    },
-    {
       "name": "Capture groups",
       "scope": ["punctuation.definition.group.regexp"],
       "settings": {
