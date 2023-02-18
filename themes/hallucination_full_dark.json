@@ -586,15 +586,20 @@
       }
     },
     {
-      "name": "Functions",
+      "name": "Function names",
       "scope": [
         "entity.name.function",
-        "meta.require",
-        "support.function.any-method",
-        "variable.function"
+        "meta.function-call.generic",
+        "meta.function-call.object",
+        "meta.function-call.php",
+        "meta.function-call.static",
+        "meta.method-call.java meta.method",
+        "meta.method.groovy",
+        "support.function.any-method.lua",
+        "keyword.operator.function.infix"
       ],
       "settings": {
-        "foreground": "#50fa7b"
+        "foreground": "#50FA7B"
       }
     },
     {
@@ -757,9 +762,9 @@
     },
     {
       "name": "Constants",
-      "scope": "constant",
+      "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#d694f5"
+        "foreground": "#D694F5"
       }
     },
     {
@@ -2016,6 +2021,32 @@
       "scope": ["meta.decorator variable.other.object"],
       "settings": {
         "foreground": "#50FA7B"
+      }
+    },
+    {
+      "name": "Built-in magic functions and constants",
+      "scope": [
+        "support.function.magic",
+        "support.variable",
+        "variable.other.predefined"
+      ],
+      "settings": {
+        "fontStyle": "regular",
+        "foreground": "#BD93F9"
+      }
+    },
+    {
+      "name": "Built-in functions / properties",
+      "scope": ["support.function", "support.type.property-name"],
+      "settings": {
+        "fontStyle": "regular"
+      }
+    },
+    {
+      "name": "Language Built-ins",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#5AEE95"
       }
     }
   ],
