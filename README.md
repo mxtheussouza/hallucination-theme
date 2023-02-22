@@ -14,6 +14,12 @@
   <img alt="Hallucination theme screnshoot for Visual Studio Code" src=".github/assets/hallucination-dark.png">
 </p>
 
+<p align="center" style="font-style: italic">(Hallucination Dark)</p>
+
+<p align="center">
+  <img alt="Hallucination theme screnshoot for Visual Studio Code" src=".github/assets/hallucination-full-dark.png">
+</p>
+
 <p align="center" style="font-style: italic">(Hallucination Full Dark)</p>
 
 ## Installing
