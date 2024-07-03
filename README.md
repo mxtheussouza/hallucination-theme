@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/matheusdearaujo/hallucination-theme" rel="noopener">
+  <a href="https://github.com/mxtheussouza/hallucination-theme" rel="noopener">
     <img width=200px height=200px src=".github/assets/icon.png">
  </a>
 </p>
@@ -41,11 +41,11 @@ Read our [contribution](/CONTRIBUTING.md) guide.
 
 ## Contributors
 
-<a href="https://github.com/matheusdearaujo/hallucination-theme/graphs/contributors"><img src="https://contrib.rocks/image?repo=matheusdearaujo/hallucination-theme" /></a>
+<a href="https://github.com/mxtheussouza/hallucination-theme/graphs/contributors"><img src="https://contrib.rocks/image?repo=mxtheussouza/hallucination-theme" /></a>
 
 ## Authors
 
-| [<img src="https://avatars.githubusercontent.com/u/61164981?v=3&s=115"><br><sub>@matheusdearaujo</sub>](https://github.com/matheusdearaujo)  | [<img src="https://avatars.githubusercontent.com/u/80401402?v=3&s=115"><br><sub>@philipecerqueira</sub>](https://github.com/matheusdearaujo)  |
+| [<img src="https://avatars.githubusercontent.com/u/61164981?v=3&s=115"><br><sub>@mxtheussouza</sub>](https://github.com/mxtheussouza)  | [<img src="https://avatars.githubusercontent.com/u/80401402?v=3&s=115"><br><sub>@philipecerqueira</sub>](https://github.com/mxtheussouza)  |
 |:-:|:-:|
 
 ## LICENSE
